@@ -12,6 +12,7 @@ I'm currently building my programming skills through university projects and per
 * Git & GitHub
 * C++
 * Visual Basic .NET
+* Python
 
 ### 🚀 Current Goals
 * Build real-world software projects
@@ -26,6 +27,7 @@ I'm currently building my programming skills through university projects and per
 * Git
 * GitHub
 * Markdown
+* Python
 
 ### 📈 Current Focus
 * Strengthening my Data Structures & Algorithms skills
